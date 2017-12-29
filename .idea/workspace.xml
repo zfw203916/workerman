@@ -25,33 +25,20 @@
       <file leaf-file-name="client.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.241379">
-              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+            <state vertical-scroll-proportion="-18.62069">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wsserver.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wsserver.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wsserver.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7677794">
-              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            <state vertical-scroll-proportion="-18.241379">
+              <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wsserver副本.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wsserver副本.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.1034484">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-              <folding>
-                <element signature="e#7#500#0#PHP" expanded="true" />
-                <marker date="1514549538340" expanded="true" signature="1127:1211" placeholder="insert into ..." />
               </folding>
             </state>
           </provider>
@@ -97,21 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HTML5.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HTML5.js" pinned="false" current-in-tab="true">
         <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.866667">
+            <state vertical-scroll-proportion="0.43023255">
               <caret line="1543" column="26" selection-start-line="1543" selection-start-column="20" selection-end-line="1543" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="client - 副本.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client - 副本.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.413794">
-              <caret line="51" column="27" selection-start-line="50" selection-start-column="7" selection-end-line="51" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -123,9 +100,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/client - 副本.html" />
-        <option value="$PROJECT_DIR$/client.html" />
         <option value="$PROJECT_DIR$/Workerman/Autoloader.php" />
         <option value="$PROJECT_DIR$/wsserver.php" />
+        <option value="$PROJECT_DIR$/client.html" />
       </list>
     </option>
   </component>
@@ -288,14 +265,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client - 副本.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.413794">
-          <caret line="51" column="27" selection-start-line="50" selection-start-column="7" selection-end-line="51" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Workerman/Autoloader.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.8474574">
@@ -320,6 +289,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2191582">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wsserver副本.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4934688">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <marker date="1514549538340" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wsserver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.241379">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.62069">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Workerman/Connection/ConnectionInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.103448">
@@ -328,40 +333,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client.html">
+    <entry file="file://$PROJECT_DIR$/client - 副本.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.241379">
-          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.56458634">
+          <caret line="51" column="27" selection-start-line="50" selection-start-column="7" selection-end-line="51" selection-end-column="27" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wsserver副本.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.1034484">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-          <folding>
-            <element signature="e#7#500#0#PHP" expanded="true" />
-            <marker date="1514549538340" expanded="true" signature="1127:1211" placeholder="insert into ..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.866667">
+        <state vertical-scroll-proportion="0.43023255">
           <caret line="1543" column="26" selection-start-line="1543" selection-start-column="20" selection-end-line="1543" selection-end-column="26" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wsserver.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7677794">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

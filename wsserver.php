@@ -10,7 +10,7 @@ use Workerman\Worker;
 require_once 'Workerman/Autoloader.php';
 
 //创建一个Worker监听127.0.0.1:8000, 使用websocket协议通讯
-$ws_worker = new Worker("websoket://127.0.0.1:8000");
+$ws_worker = new Worker("websocket://127.0.0.1:8000");
 
 //启动4个进程对外提供服务
 $ws_worker->count = 4;
@@ -32,8 +32,14 @@ $ws_worker->onMessage = function($connection, $data){
     //向客户端回发数据
     $connection->send("you just send:$data");
 
+    //向客户端回发数据
+   // $connection->send("you just send:$data");
+
 };
 
 //运行worker
 $ws_worker->runAll();
+
+
+
 
